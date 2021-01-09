@@ -12,3 +12,5 @@ elif action == "/":
     print (num1 / num2)
 else:
     print ("Wrong Operator")
+
+#End of day 3
